@@ -16,3 +16,14 @@ Projeto simples usando Python para análise de vendas.
 ## Análise adicional
 
 O projeto também inclui a geração de um ranking de vendas, ordenando os produtos do maior para o menor faturamento, permitindo identificar rapidamente os itens mais relevantes.
+
+## Análise avançada
+
+Foi realizada uma análise mais completa dos dados de vendas, identificando:
+
+- produto com maior faturamento
+- produto mais vendido em quantidade
+- ticket médio
+
+Insights:
+Produtos de maior valor concentram a maior parte do faturamento, enquanto produtos mais baratos apresentam maior volume de vendas.
