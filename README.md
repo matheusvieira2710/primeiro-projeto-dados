@@ -12,3 +12,7 @@ Projeto simples usando Python para análise de vendas.
 - Python
 - Pandas
 - Matplotlib
+  
+## Análise adicional
+
+O projeto também inclui a geração de um ranking de vendas, ordenando os produtos do maior para o menor faturamento, permitindo identificar rapidamente os itens mais relevantes.
